@@ -1,8 +1,8 @@
+
 let player = {
     name: "Sammy",
-    chips: 200
+    chips: 180
 }
-
 let cards = []
 let sum = 0
 let hasBlackJack = false
