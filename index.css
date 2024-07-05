@@ -5,6 +5,9 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
