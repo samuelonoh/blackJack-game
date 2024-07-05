@@ -1,4 +1,4 @@
-# Getting Started
+
 # BlackJack Game
 
-Happy Coding!
+# https://samuelonoh.github.io/blackJack-game/
